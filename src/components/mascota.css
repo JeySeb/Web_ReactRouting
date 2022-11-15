@@ -1,0 +1,33 @@
+
+.normal_format {
+    position: relative;
+    color: #000000;
+    font-family: 'Arial';
+    font-weight: 400;
+    font-size: 20px;
+    width: 70%;
+    margin: auto;
+}
+
+
+.cyan_format {
+    position: relative;
+    color: #00B8A9;
+    font-family: 'Arial';
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.card_mascota {
+    height: 100%;
+    object-fit: cover;
+    margin: auto;
+    background-color: #ffe4e4;
+}
+
+.card_img {
+    height: 300px;
+    object-fit: cover;
+    margin: auto;
+    background-color: #ffe4e4;
+}
